@@ -1,6 +1,7 @@
 #include “head.h”
 int addGit()
 {
-	pritnf(“function addGit.\n”);
+	//second branch
+	printf(“function addGit.\n”);
 	return 0;
 }
